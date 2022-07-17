@@ -14,4 +14,5 @@ So that you don’t have to read the post, here are the topline findings:
 
     For intermediate levels of sexual activity (once or twice a month), there do not seem to be big differences in sexual frequency by religion no matter how the data is chopped up.
     
- The codeset and images are encapsulated within a .pdf file and attached in this repository to refer.
+ The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
